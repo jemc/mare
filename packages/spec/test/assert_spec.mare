@@ -1,0 +1,7 @@
+:class AssertSpec
+  :is Spec
+  :const describes: "Assert"
+
+  :it "conforms to the assert macro"
+    assert True
+
